@@ -31,6 +31,30 @@ The analysis uses a **synthetic Apple sales dataset**, containing transaction-le
 
 ---
 
+## Project Workflow
+
+1. **Data Cleaning (Python / Pandas)**
+   - Handled missing values
+   - Created additional features such as `season`, `year_month`, `discount_level`, and `discount_amount`
+
+2. **Database Modeling (PostgreSQL)**
+   - Built a relational schema with:
+     - `sales` (fact table)
+     - `customers` (dimension table)
+     - `products` (dimension table)
+
+3. **SQL Analysis**
+   - Identified top customers
+   - Analyzed revenue trends
+   - Evaluated product performance
+   - Measured discount effectiveness
+   - Investigated customer satisfaction
+
+4. **Business Intelligence (Power BI)**
+   - Built an interactive dashboard
+   - Added KPIs, filters, and drill-down analysis
+   - Designed pages focused on key business questions
+
 ## Dashboard Features
 1. **Main Dashboard**: KPIs including Total Revenue, Units Sold, Best Product, Average Rating.  
 2. **Customer Insights**: Revenue by country, region, age group, and segment.  
