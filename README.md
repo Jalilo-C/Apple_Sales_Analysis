@@ -55,12 +55,40 @@ The analysis uses a **synthetic Apple sales dataset**, containing transaction-le
    - Added KPIs, filters, and drill-down analysis
    - Designed pages focused on key business questions
 
-## Dashboard Features
-1. **Main Dashboard**: KPIs including Total Revenue, Units Sold, Best Product, Average Rating.  
-2. **Customer Insights**: Revenue by country, region, age group, and segment.  
-3. **Revenue Trends**: Evolution over time (year/month) and seasonal patterns.  
-4. **Product Performance**: Best product categories, storage options, and colors.  
-5. **Discount & Customer Satisfaction**: Impact of discounts on revenue, returns analysis, and average ratings.
+## Dashboard Preview
+
+### Main Dashboard
+Overview of key business metrics including total revenue, total units sold, best-performing product, and average customer rating.
+
+![Main Dashboard](Dashboard_images/Overview.jpg)
+
+---
+
+### Customer Insights
+Identifies the most valuable customers by country, region, age group, and segment.
+
+![Customer Insights](Dashboard_images/Customers.jpg)
+
+---
+
+### Revenue Trends
+Shows how revenue evolves over time and highlights seasonal patterns.
+
+![Revenue Trends](Dashboard_images/Trends.jpg)
+
+---
+
+### Product Performance
+Highlights top-performing product categories, storage options, and colors.
+
+![Product Performance](Dashboard_images/Products.jpg)
+
+---
+
+### Discounts & Customer Satisfaction
+Analyzes the impact of discounts on sales performance and explores customer satisfaction through ratings and return behavior.
+
+![Discount & Satisfaction](Dashboard_images/Satisfaction.jpg)
 
 ---
 
